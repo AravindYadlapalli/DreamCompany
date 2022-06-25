@@ -1,0 +1,43 @@
+Important Questions Asked by Dream Companies.
+------------------------------------------------------------------------------
+
+
+1. Arrays: 
+
+   a) If Array contains all Zeros, ones and twos, then sort the array
+   b) Stock Buy and Sell 
+   c) Matrix Rotation with O(1)
+   d)*** Merge Overlapping intervals***
+   e) Merge two sorted arrays into a single array O(1)
+   d) Minimum number of Inversions of an Array 
+   f) Power of 'a' to the power of 'b' using recursion in O(logn) complexity 
+   g) Largest sum Sub-array using kadane's algorithm
+   i) Two Number appear only once, all others twice, find the single time occuring number
+   j) Median of two sorted array 
+   k) ***Aggresive Cows--> name of the problem on Leet code***
+
+2. Strings:
+
+  a) Reverse every word in the string 
+  b) Longest Palindromic substring
+  c) Robin-Karp algorithm and related problems (Pattern Matching)
+  d) KMP algorithm and related problems (patterns matchings)
+  e) Longest Common prefix (Use tries ds)
+  f) Minimum number of characters needed to be inserted in the begining to make it a palindrome (Use LPS table)
+ g) Rank of a string based on Lexicographic order
+
+3. Binary Trees :
+
+  a) Diameter of a binary tree 
+  b) Top View 
+  c) Bottom View
+  d) Left View
+  e) Right View
+  f) Zig-Zag traversal of the Tree (Use two Stacks )
+  g) Least Common Ancestors of two nodes (Binary tree and Binary Search Tree)
+  h) Ceil and Floor of B.S.T
+
+4. GRAPHS:
+
+   a) Number of Islands in a graph 
+   b)Topological Ordering
